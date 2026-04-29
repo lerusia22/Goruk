@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AccessAdminPanel/AccessAdminPanel.csproj" />
+  <Project Path="AccessEntitiesLibrary/AccessEntitiesLibrary.csproj" />
+  <Project Path="UserAccessClient/UserAccessClient.csproj" />
+</Solution>
